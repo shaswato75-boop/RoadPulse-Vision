@@ -1,0 +1,11 @@
+<gpx version="1.1" creator="Droid Dashcam - https://play.google.com/store/apps/details?id=com.helge.droiddashcam" xmlns="http://www.topografix.com/GPX/1/1">
+    <trk>
+        <trkseg>
+            <trkpt lat="22.8047909" lon="89.5364575">
+                <ele>-48.000003814697266</ele>
+                <time>2026-11-10T14:38:29Z</time>
+                <speed>0.0</speed>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

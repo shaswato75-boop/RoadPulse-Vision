@@ -1,0 +1,464 @@
+[
+    {
+        "id": 1,
+        "severity": "Critical",
+        "area_px": 28395.7,
+        "confidence": 0.7
+    },
+    {
+        "id": 2,
+        "severity": "Critical",
+        "area_px": 148795.4,
+        "confidence": 0.69
+    },
+    {
+        "id": 3,
+        "severity": "Minor",
+        "area_px": 3546.1,
+        "confidence": 0.65
+    },
+    {
+        "id": 4,
+        "severity": "Moderate",
+        "area_px": 10709.6,
+        "confidence": 0.59
+    },
+    {
+        "id": 5,
+        "severity": "Moderate",
+        "area_px": 9087.4,
+        "confidence": 0.43
+    },
+    {
+        "id": 6,
+        "severity": "Minor",
+        "area_px": 2294.0,
+        "confidence": 0.45
+    },
+    {
+        "id": 7,
+        "severity": "Critical",
+        "area_px": 29932.0,
+        "confidence": 0.55
+    },
+    {
+        "id": 10,
+        "severity": "Minor",
+        "area_px": 3691.9,
+        "confidence": 0.45
+    },
+    {
+        "id": 14,
+        "severity": "Minor",
+        "area_px": 6934.2,
+        "confidence": 0.45
+    },
+    {
+        "id": 18,
+        "severity": "Minor",
+        "area_px": 2229.5,
+        "confidence": 0.52
+    },
+    {
+        "id": 19,
+        "severity": "Moderate",
+        "area_px": 12252.4,
+        "confidence": 0.47
+    },
+    {
+        "id": 20,
+        "severity": "Minor",
+        "area_px": 6474.7,
+        "confidence": 0.43
+    },
+    {
+        "id": 21,
+        "severity": "Minor",
+        "area_px": 6654.4,
+        "confidence": 0.6
+    },
+    {
+        "id": 22,
+        "severity": "Minor",
+        "area_px": 3790.3,
+        "confidence": 0.5
+    },
+    {
+        "id": 23,
+        "severity": "Moderate",
+        "area_px": 16169.1,
+        "confidence": 0.52
+    },
+    {
+        "id": 26,
+        "severity": "Minor",
+        "area_px": 2844.5,
+        "confidence": 0.5
+    },
+    {
+        "id": 28,
+        "severity": "Moderate",
+        "area_px": 8396.5,
+        "confidence": 0.63
+    },
+    {
+        "id": 35,
+        "severity": "Minor",
+        "area_px": 5000.6,
+        "confidence": 0.4
+    },
+    {
+        "id": 36,
+        "severity": "Minor",
+        "area_px": 3892.4,
+        "confidence": 0.43
+    },
+    {
+        "id": 38,
+        "severity": "Minor",
+        "area_px": 4439.6,
+        "confidence": 0.48
+    },
+    {
+        "id": 40,
+        "severity": "Moderate",
+        "area_px": 12782.2,
+        "confidence": 0.6
+    },
+    {
+        "id": 43,
+        "severity": "Minor",
+        "area_px": 5110.3,
+        "confidence": 0.46
+    },
+    {
+        "id": 44,
+        "severity": "Minor",
+        "area_px": 3087.3,
+        "confidence": 0.44
+    },
+    {
+        "id": 45,
+        "severity": "Moderate",
+        "area_px": 7530.6,
+        "confidence": 0.48
+    },
+    {
+        "id": 46,
+        "severity": "Minor",
+        "area_px": 4050.3,
+        "confidence": 0.41
+    },
+    {
+        "id": 47,
+        "severity": "Minor",
+        "area_px": 3826.8,
+        "confidence": 0.46
+    },
+    {
+        "id": 49,
+        "severity": "Minor",
+        "area_px": 4652.3,
+        "confidence": 0.44
+    },
+    {
+        "id": 50,
+        "severity": "Minor",
+        "area_px": 3993.1,
+        "confidence": 0.45
+    },
+    {
+        "id": 51,
+        "severity": "Minor",
+        "area_px": 6806.3,
+        "confidence": 0.44
+    },
+    {
+        "id": 52,
+        "severity": "Minor",
+        "area_px": 4317.2,
+        "confidence": 0.42
+    },
+    {
+        "id": 57,
+        "severity": "Minor",
+        "area_px": 4954.5,
+        "confidence": 0.5
+    },
+    {
+        "id": 60,
+        "severity": "Moderate",
+        "area_px": 13965.7,
+        "confidence": 0.51
+    },
+    {
+        "id": 62,
+        "severity": "Minor",
+        "area_px": 4001.1,
+        "confidence": 0.47
+    },
+    {
+        "id": 66,
+        "severity": "Moderate",
+        "area_px": 9953.6,
+        "confidence": 0.43
+    },
+    {
+        "id": 67,
+        "severity": "Moderate",
+        "area_px": 17088.2,
+        "confidence": 0.46
+    },
+    {
+        "id": 69,
+        "severity": "Minor",
+        "area_px": 2062.1,
+        "confidence": 0.41
+    },
+    {
+        "id": 70,
+        "severity": "Moderate",
+        "area_px": 8487.1,
+        "confidence": 0.44
+    },
+    {
+        "id": 72,
+        "severity": "Minor",
+        "area_px": 2893.4,
+        "confidence": 0.41
+    },
+    {
+        "id": 74,
+        "severity": "Moderate",
+        "area_px": 13806.4,
+        "confidence": 0.45
+    },
+    {
+        "id": 75,
+        "severity": "Critical",
+        "area_px": 18691.8,
+        "confidence": 0.68
+    },
+    {
+        "id": 77,
+        "severity": "Minor",
+        "area_px": 3106.8,
+        "confidence": 0.46
+    },
+    {
+        "id": 78,
+        "severity": "Minor",
+        "area_px": 3174.3,
+        "confidence": 0.46
+    },
+    {
+        "id": 79,
+        "severity": "Minor",
+        "area_px": 4044.0,
+        "confidence": 0.43
+    },
+    {
+        "id": 80,
+        "severity": "Minor",
+        "area_px": 4038.8,
+        "confidence": 0.47
+    },
+    {
+        "id": 81,
+        "severity": "Minor",
+        "area_px": 4054.5,
+        "confidence": 0.45
+    },
+    {
+        "id": 83,
+        "severity": "Minor",
+        "area_px": 3695.9,
+        "confidence": 0.47
+    },
+    {
+        "id": 90,
+        "severity": "Minor",
+        "area_px": 3421.6,
+        "confidence": 0.46
+    },
+    {
+        "id": 92,
+        "severity": "Minor",
+        "area_px": 6587.0,
+        "confidence": 0.42
+    },
+    {
+        "id": 96,
+        "severity": "Moderate",
+        "area_px": 8048.9,
+        "confidence": 0.49
+    },
+    {
+        "id": 100,
+        "severity": "Critical",
+        "area_px": 52006.5,
+        "confidence": 0.54
+    },
+    {
+        "id": 104,
+        "severity": "Minor",
+        "area_px": 6580.7,
+        "confidence": 0.56
+    },
+    {
+        "id": 105,
+        "severity": "Minor",
+        "area_px": 6316.3,
+        "confidence": 0.49
+    },
+    {
+        "id": 106,
+        "severity": "Critical",
+        "area_px": 39238.7,
+        "confidence": 0.44
+    },
+    {
+        "id": 107,
+        "severity": "Moderate",
+        "area_px": 7388.4,
+        "confidence": 0.41
+    },
+    {
+        "id": 111,
+        "severity": "Minor",
+        "area_px": 4741.7,
+        "confidence": 0.43
+    },
+    {
+        "id": 116,
+        "severity": "Critical",
+        "area_px": 77942.5,
+        "confidence": 0.58
+    },
+    {
+        "id": 119,
+        "severity": "Moderate",
+        "area_px": 11723.7,
+        "confidence": 0.51
+    },
+    {
+        "id": 121,
+        "severity": "Critical",
+        "area_px": 36325.7,
+        "confidence": 0.44
+    },
+    {
+        "id": 123,
+        "severity": "Minor",
+        "area_px": 4126.9,
+        "confidence": 0.42
+    },
+    {
+        "id": 125,
+        "severity": "Minor",
+        "area_px": 4448.0,
+        "confidence": 0.45
+    },
+    {
+        "id": 128,
+        "severity": "Critical",
+        "area_px": 86899.0,
+        "confidence": 0.45
+    },
+    {
+        "id": 132,
+        "severity": "Moderate",
+        "area_px": 10577.8,
+        "confidence": 0.42
+    },
+    {
+        "id": 136,
+        "severity": "Minor",
+        "area_px": 2492.3,
+        "confidence": 0.44
+    },
+    {
+        "id": 137,
+        "severity": "Moderate",
+        "area_px": 13151.4,
+        "confidence": 0.41
+    },
+    {
+        "id": 140,
+        "severity": "Minor",
+        "area_px": 6283.1,
+        "confidence": 0.5
+    },
+    {
+        "id": 141,
+        "severity": "Minor",
+        "area_px": 2556.8,
+        "confidence": 0.4
+    },
+    {
+        "id": 144,
+        "severity": "Minor",
+        "area_px": 6101.4,
+        "confidence": 0.57
+    },
+    {
+        "id": 147,
+        "severity": "Minor",
+        "area_px": 4368.3,
+        "confidence": 0.4
+    },
+    {
+        "id": 148,
+        "severity": "Critical",
+        "area_px": 26253.0,
+        "confidence": 0.6
+    },
+    {
+        "id": 149,
+        "severity": "Critical",
+        "area_px": 21670.0,
+        "confidence": 0.46
+    },
+    {
+        "id": 150,
+        "severity": "Minor",
+        "area_px": 3289.2,
+        "confidence": 0.43
+    },
+    {
+        "id": 154,
+        "severity": "Critical",
+        "area_px": 100454.2,
+        "confidence": 0.58
+    },
+    {
+        "id": 155,
+        "severity": "Moderate",
+        "area_px": 7416.9,
+        "confidence": 0.42
+    },
+    {
+        "id": 156,
+        "severity": "Moderate",
+        "area_px": 17798.1,
+        "confidence": 0.47
+    },
+    {
+        "id": 160,
+        "severity": "Minor",
+        "area_px": 5693.4,
+        "confidence": 0.5
+    },
+    {
+        "id": 162,
+        "severity": "Critical",
+        "area_px": 24978.2,
+        "confidence": 0.42
+    },
+    {
+        "id": 164,
+        "severity": "Critical",
+        "area_px": 45043.9,
+        "confidence": 0.53
+    }
+]

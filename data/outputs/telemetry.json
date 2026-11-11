@@ -1,0 +1,1612 @@
+[
+    {
+        "defect_id": "RPV-0017",
+        "severity": "Critical",
+        "confidence": 0.48,
+        "area_px": 28217.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:19:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0017.jpg"
+    },
+    {
+        "defect_id": "RPV-0018",
+        "severity": "Critical",
+        "confidence": 0.5,
+        "area_px": 18482.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:19:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0018.jpg"
+    },
+    {
+        "defect_id": "RPV-0020",
+        "severity": "Critical",
+        "confidence": 0.58,
+        "area_px": 19547.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:19:04",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0020.jpg"
+    },
+    {
+        "defect_id": "RPV-0025",
+        "severity": "Critical",
+        "confidence": 0.71,
+        "area_px": 35001.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:20:56",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0025.jpg"
+    },
+    {
+        "defect_id": "RPV-0027",
+        "severity": "Moderate",
+        "confidence": 0.44,
+        "area_px": 6281.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:20:59",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0027.jpg"
+    },
+    {
+        "defect_id": "RPV-0028",
+        "severity": "Critical",
+        "confidence": 0.42,
+        "area_px": 17951.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0028.jpg"
+    },
+    {
+        "defect_id": "RPV-0042",
+        "severity": "Critical",
+        "confidence": 0.63,
+        "area_px": 26778.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:06",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0042.jpg"
+    },
+    {
+        "defect_id": "RPV-0049",
+        "severity": "Critical",
+        "confidence": 0.5,
+        "area_px": 13988.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:08",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0049.jpg"
+    },
+    {
+        "defect_id": "RPV-0058",
+        "severity": "Critical",
+        "confidence": 0.46,
+        "area_px": 32585.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:21",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0058.jpg"
+    },
+    {
+        "defect_id": "RPV-0069",
+        "severity": "Critical",
+        "confidence": 0.48,
+        "area_px": 35469.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:32",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0069.jpg"
+    },
+    {
+        "defect_id": "RPV-0073",
+        "severity": "Critical",
+        "confidence": 0.53,
+        "area_px": 88895.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0073.jpg"
+    },
+    {
+        "defect_id": "RPV-0083",
+        "severity": "Critical",
+        "confidence": 0.55,
+        "area_px": 52695.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:35",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0083.jpg"
+    },
+    {
+        "defect_id": "RPV-0084",
+        "severity": "Critical",
+        "confidence": 0.54,
+        "area_px": 56236.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:36",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0084.jpg"
+    },
+    {
+        "defect_id": "RPV-0089",
+        "severity": "Critical",
+        "confidence": 0.57,
+        "area_px": 16013.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:39",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0089.jpg"
+    },
+    {
+        "defect_id": "RPV-0092",
+        "severity": "Critical",
+        "confidence": 0.57,
+        "area_px": 39212.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:39",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0092.jpg"
+    },
+    {
+        "defect_id": "RPV-0109",
+        "severity": "Critical",
+        "confidence": 0.66,
+        "area_px": 21031.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:52",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0109.jpg"
+    },
+    {
+        "defect_id": "RPV-0116",
+        "severity": "Critical",
+        "confidence": 0.77,
+        "area_px": 27052.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:21:55",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0116.jpg"
+    },
+    {
+        "defect_id": "RPV-0123",
+        "severity": "Critical",
+        "confidence": 0.69,
+        "area_px": 11042.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:01",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0123.jpg"
+    },
+    {
+        "defect_id": "RPV-0125",
+        "severity": "Critical",
+        "confidence": 0.6,
+        "area_px": 27344.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:01",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0125.jpg"
+    },
+    {
+        "defect_id": "RPV-0138",
+        "severity": "Critical",
+        "confidence": 0.75,
+        "area_px": 170129.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:12",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0138.jpg"
+    },
+    {
+        "defect_id": "RPV-0142",
+        "severity": "Moderate",
+        "confidence": 0.56,
+        "area_px": 9491.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:13",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0142.jpg"
+    },
+    {
+        "defect_id": "RPV-0144",
+        "severity": "Moderate",
+        "confidence": 0.66,
+        "area_px": 7666.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:14",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0144.jpg"
+    },
+    {
+        "defect_id": "RPV-0158",
+        "severity": "Critical",
+        "confidence": 0.46,
+        "area_px": 24219.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:20",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0158.jpg"
+    },
+    {
+        "defect_id": "RPV-0160",
+        "severity": "Critical",
+        "confidence": 0.71,
+        "area_px": 30186.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:22",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0160.jpg"
+    },
+    {
+        "defect_id": "RPV-0183",
+        "severity": "Critical",
+        "confidence": 0.41,
+        "area_px": 25104.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:22:30",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0183.jpg"
+    },
+    {
+        "defect_id": "RPV-0197",
+        "severity": "Critical",
+        "confidence": 0.73,
+        "area_px": 117443.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0197.jpg"
+    },
+    {
+        "defect_id": "RPV-0199",
+        "severity": "Minor",
+        "confidence": 0.67,
+        "area_px": 1952.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0199.jpg"
+    },
+    {
+        "defect_id": "RPV-0203",
+        "severity": "Minor",
+        "confidence": 0.75,
+        "area_px": 1715.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0203.jpg"
+    },
+    {
+        "defect_id": "RPV-0204",
+        "severity": "Minor",
+        "confidence": 0.62,
+        "area_px": 1813.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:04",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0204.jpg"
+    },
+    {
+        "defect_id": "RPV-0208",
+        "severity": "Minor",
+        "confidence": 0.68,
+        "area_px": 3026.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:05",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0208.jpg"
+    },
+    {
+        "defect_id": "RPV-0214",
+        "severity": "Critical",
+        "confidence": 0.45,
+        "area_px": 44551.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:10",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0214.jpg"
+    },
+    {
+        "defect_id": "RPV-0220",
+        "severity": "Minor",
+        "confidence": 0.6,
+        "area_px": 2963.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:13",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0220.jpg"
+    },
+    {
+        "defect_id": "RPV-0232",
+        "severity": "Critical",
+        "confidence": 0.52,
+        "area_px": 71005.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:26",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0232.jpg"
+    },
+    {
+        "defect_id": "RPV-0236",
+        "severity": "Critical",
+        "confidence": 0.58,
+        "area_px": 54327.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 16:52:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0236.jpg"
+    },
+    {
+        "defect_id": "RPV-0244",
+        "severity": "Minor",
+        "confidence": 0.57,
+        "area_px": 1155.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:20:56",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0244.jpg"
+    },
+    {
+        "defect_id": "RPV-0246",
+        "severity": "Minor",
+        "confidence": 0.57,
+        "area_px": 2383.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:20:57",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0246.jpg"
+    },
+    {
+        "defect_id": "RPV-0248",
+        "severity": "Minor",
+        "confidence": 0.7,
+        "area_px": 3412.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:20:57",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0248.jpg"
+    },
+    {
+        "defect_id": "RPV-0249",
+        "severity": "Minor",
+        "confidence": 0.51,
+        "area_px": 417.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:20:58",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0249.jpg"
+    },
+    {
+        "defect_id": "RPV-0254",
+        "severity": "Moderate",
+        "confidence": 0.54,
+        "area_px": 7393.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:00",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0254.jpg"
+    },
+    {
+        "defect_id": "RPV-0257",
+        "severity": "Moderate",
+        "confidence": 0.59,
+        "area_px": 5981.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:00",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0257.jpg"
+    },
+    {
+        "defect_id": "RPV-0264",
+        "severity": "Moderate",
+        "confidence": 0.41,
+        "area_px": 4706.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:01",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0264.jpg"
+    },
+    {
+        "defect_id": "RPV-0271",
+        "severity": "Moderate",
+        "confidence": 0.43,
+        "area_px": 5691.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:02",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0271.jpg"
+    },
+    {
+        "defect_id": "RPV-0278",
+        "severity": "Critical",
+        "confidence": 0.61,
+        "area_px": 22500.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0278.jpg"
+    },
+    {
+        "defect_id": "RPV-0279",
+        "severity": "Moderate",
+        "confidence": 0.47,
+        "area_px": 8601.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0279.jpg"
+    },
+    {
+        "defect_id": "RPV-0284",
+        "severity": "Minor",
+        "confidence": 0.46,
+        "area_px": 1105.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0284.jpg"
+    },
+    {
+        "defect_id": "RPV-0287",
+        "severity": "Critical",
+        "confidence": 0.44,
+        "area_px": 32540.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0287.jpg"
+    },
+    {
+        "defect_id": "RPV-0289",
+        "severity": "Moderate",
+        "confidence": 0.58,
+        "area_px": 4580.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0289.jpg"
+    },
+    {
+        "defect_id": "RPV-0297",
+        "severity": "Minor",
+        "confidence": 0.47,
+        "area_px": 1585.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0297.jpg"
+    },
+    {
+        "defect_id": "RPV-0298",
+        "severity": "Minor",
+        "confidence": 0.64,
+        "area_px": 2436.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0298.jpg"
+    },
+    {
+        "defect_id": "RPV-0301",
+        "severity": "Minor",
+        "confidence": 0.64,
+        "area_px": 2651.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0301.jpg"
+    },
+    {
+        "defect_id": "RPV-0314",
+        "severity": "Minor",
+        "confidence": 0.42,
+        "area_px": 3372.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:08",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0314.jpg"
+    },
+    {
+        "defect_id": "RPV-0316",
+        "severity": "Minor",
+        "confidence": 0.55,
+        "area_px": 2429.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:09",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0316.jpg"
+    },
+    {
+        "defect_id": "RPV-0318",
+        "severity": "Moderate",
+        "confidence": 0.44,
+        "area_px": 9159.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:09",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0318.jpg"
+    },
+    {
+        "defect_id": "RPV-0323",
+        "severity": "Moderate",
+        "confidence": 0.56,
+        "area_px": 7097.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:11",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0323.jpg"
+    },
+    {
+        "defect_id": "RPV-0340",
+        "severity": "Critical",
+        "confidence": 0.44,
+        "area_px": 17684.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:12",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0340.jpg"
+    },
+    {
+        "defect_id": "RPV-0355",
+        "severity": "Minor",
+        "confidence": 0.53,
+        "area_px": 1766.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:14",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0355.jpg"
+    },
+    {
+        "defect_id": "RPV-0376",
+        "severity": "Minor",
+        "confidence": 0.53,
+        "area_px": 3018.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:15",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0376.jpg"
+    },
+    {
+        "defect_id": "RPV-0383",
+        "severity": "Moderate",
+        "confidence": 0.71,
+        "area_px": 8968.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:16",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0383.jpg"
+    },
+    {
+        "defect_id": "RPV-0391",
+        "severity": "Critical",
+        "confidence": 0.59,
+        "area_px": 120687.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:25",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0391.jpg"
+    },
+    {
+        "defect_id": "RPV-0401",
+        "severity": "Minor",
+        "confidence": 0.53,
+        "area_px": 2024.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:29",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0401.jpg"
+    },
+    {
+        "defect_id": "RPV-0406",
+        "severity": "Minor",
+        "confidence": 0.58,
+        "area_px": 1991.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:30",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0406.jpg"
+    },
+    {
+        "defect_id": "RPV-0416",
+        "severity": "Minor",
+        "confidence": 0.72,
+        "area_px": 3742.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:30",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0416.jpg"
+    },
+    {
+        "defect_id": "RPV-0418",
+        "severity": "Minor",
+        "confidence": 0.6,
+        "area_px": 2252.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:30",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0418.jpg"
+    },
+    {
+        "defect_id": "RPV-0437",
+        "severity": "Minor",
+        "confidence": 0.4,
+        "area_px": 1163.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:31",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0437.jpg"
+    },
+    {
+        "defect_id": "RPV-0439",
+        "severity": "Critical",
+        "confidence": 0.45,
+        "area_px": 16521.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:31",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0439.jpg"
+    },
+    {
+        "defect_id": "RPV-0452",
+        "severity": "Minor",
+        "confidence": 0.59,
+        "area_px": 2164.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:32",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0452.jpg"
+    },
+    {
+        "defect_id": "RPV-0455",
+        "severity": "Minor",
+        "confidence": 0.56,
+        "area_px": 2924.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0455.jpg"
+    },
+    {
+        "defect_id": "RPV-0457",
+        "severity": "Critical",
+        "confidence": 0.45,
+        "area_px": 44321.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0457.jpg"
+    },
+    {
+        "defect_id": "RPV-0462",
+        "severity": "Critical",
+        "confidence": 0.56,
+        "area_px": 94312.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:35",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0462.jpg"
+    },
+    {
+        "defect_id": "RPV-0469",
+        "severity": "Critical",
+        "confidence": 0.55,
+        "area_px": 75687.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:38",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0469.jpg"
+    },
+    {
+        "defect_id": "RPV-0480",
+        "severity": "Moderate",
+        "confidence": 0.47,
+        "area_px": 5089.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:40",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0480.jpg"
+    },
+    {
+        "defect_id": "RPV-0482",
+        "severity": "Minor",
+        "confidence": 0.45,
+        "area_px": 894.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:41",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0482.jpg"
+    },
+    {
+        "defect_id": "RPV-0484",
+        "severity": "Critical",
+        "confidence": 0.44,
+        "area_px": 15915.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:42",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0484.jpg"
+    },
+    {
+        "defect_id": "RPV-0490",
+        "severity": "Moderate",
+        "confidence": 0.64,
+        "area_px": 8416.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:42",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0490.jpg"
+    },
+    {
+        "defect_id": "RPV-0491",
+        "severity": "Moderate",
+        "confidence": 0.58,
+        "area_px": 6492.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:42",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0491.jpg"
+    },
+    {
+        "defect_id": "RPV-0496",
+        "severity": "Minor",
+        "confidence": 0.56,
+        "area_px": 3896.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:43",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0496.jpg"
+    },
+    {
+        "defect_id": "RPV-0499",
+        "severity": "Minor",
+        "confidence": 0.52,
+        "area_px": 2142.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:46",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0499.jpg"
+    },
+    {
+        "defect_id": "RPV-0503",
+        "severity": "Minor",
+        "confidence": 0.47,
+        "area_px": 3351.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:46",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0503.jpg"
+    },
+    {
+        "defect_id": "RPV-0506",
+        "severity": "Moderate",
+        "confidence": 0.5,
+        "area_px": 8155.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:49",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0506.jpg"
+    },
+    {
+        "defect_id": "RPV-0516",
+        "severity": "Moderate",
+        "confidence": 0.53,
+        "area_px": 5954.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:51",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0516.jpg"
+    },
+    {
+        "defect_id": "RPV-0517",
+        "severity": "Critical",
+        "confidence": 0.53,
+        "area_px": 14602.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:52",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0517.jpg"
+    },
+    {
+        "defect_id": "RPV-0524",
+        "severity": "Critical",
+        "confidence": 0.69,
+        "area_px": 21668.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:52",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0524.jpg"
+    },
+    {
+        "defect_id": "RPV-0525",
+        "severity": "Critical",
+        "confidence": 0.73,
+        "area_px": 34217.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:53",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0525.jpg"
+    },
+    {
+        "defect_id": "RPV-0531",
+        "severity": "Minor",
+        "confidence": 0.64,
+        "area_px": 640.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:21:58",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0531.jpg"
+    },
+    {
+        "defect_id": "RPV-0533",
+        "severity": "Critical",
+        "confidence": 0.56,
+        "area_px": 13683.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:09",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0533.jpg"
+    },
+    {
+        "defect_id": "RPV-0538",
+        "severity": "Minor",
+        "confidence": 0.49,
+        "area_px": 2041.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:10",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0538.jpg"
+    },
+    {
+        "defect_id": "RPV-0539",
+        "severity": "Minor",
+        "confidence": 0.62,
+        "area_px": 2299.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:11",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0539.jpg"
+    },
+    {
+        "defect_id": "RPV-0562",
+        "severity": "Critical",
+        "confidence": 0.59,
+        "area_px": 24863.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:16",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0562.jpg"
+    },
+    {
+        "defect_id": "RPV-0565",
+        "severity": "Minor",
+        "confidence": 0.59,
+        "area_px": 1211.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:17",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0565.jpg"
+    },
+    {
+        "defect_id": "RPV-0567",
+        "severity": "Minor",
+        "confidence": 0.42,
+        "area_px": 2817.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:19",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0567.jpg"
+    },
+    {
+        "defect_id": "RPV-0569",
+        "severity": "Minor",
+        "confidence": 0.42,
+        "area_px": 3499.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:19",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0569.jpg"
+    },
+    {
+        "defect_id": "RPV-0573",
+        "severity": "Moderate",
+        "confidence": 0.49,
+        "area_px": 4238.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:19",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0573.jpg"
+    },
+    {
+        "defect_id": "RPV-0576",
+        "severity": "Moderate",
+        "confidence": 0.61,
+        "area_px": 8000.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:21",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0576.jpg"
+    },
+    {
+        "defect_id": "RPV-0581",
+        "severity": "Minor",
+        "confidence": 0.56,
+        "area_px": 3116.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:21",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0581.jpg"
+    },
+    {
+        "defect_id": "RPV-0587",
+        "severity": "Moderate",
+        "confidence": 0.54,
+        "area_px": 6630.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:22",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0587.jpg"
+    },
+    {
+        "defect_id": "RPV-0588",
+        "severity": "Minor",
+        "confidence": 0.66,
+        "area_px": 3962.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:22",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0588.jpg"
+    },
+    {
+        "defect_id": "RPV-0592",
+        "severity": "Minor",
+        "confidence": 0.41,
+        "area_px": 1169.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:31",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0592.jpg"
+    },
+    {
+        "defect_id": "RPV-0594",
+        "severity": "Critical",
+        "confidence": 0.73,
+        "area_px": 36387.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:31",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0594.jpg"
+    },
+    {
+        "defect_id": "RPV-0598",
+        "severity": "Critical",
+        "confidence": 0.53,
+        "area_px": 16717.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:32",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0598.jpg"
+    },
+    {
+        "defect_id": "RPV-0601",
+        "severity": "Moderate",
+        "confidence": 0.65,
+        "area_px": 6128.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:32",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0601.jpg"
+    },
+    {
+        "defect_id": "RPV-0602",
+        "severity": "Moderate",
+        "confidence": 0.69,
+        "area_px": 9416.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:32",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0602.jpg"
+    },
+    {
+        "defect_id": "RPV-0605",
+        "severity": "Moderate",
+        "confidence": 0.67,
+        "area_px": 9610.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0605.jpg"
+    },
+    {
+        "defect_id": "RPV-0608",
+        "severity": "Moderate",
+        "confidence": 0.68,
+        "area_px": 5273.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0608.jpg"
+    },
+    {
+        "defect_id": "RPV-0609",
+        "severity": "Critical",
+        "confidence": 0.5,
+        "area_px": 16227.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:33",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0609.jpg"
+    },
+    {
+        "defect_id": "RPV-0615",
+        "severity": "Moderate",
+        "confidence": 0.51,
+        "area_px": 4571.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:34",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0615.jpg"
+    },
+    {
+        "defect_id": "RPV-0621",
+        "severity": "Critical",
+        "confidence": 0.64,
+        "area_px": 15414.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:34",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0621.jpg"
+    },
+    {
+        "defect_id": "RPV-0623",
+        "severity": "Critical",
+        "confidence": 0.46,
+        "area_px": 49146.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:36",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0623.jpg"
+    },
+    {
+        "defect_id": "RPV-0630",
+        "severity": "Moderate",
+        "confidence": 0.51,
+        "area_px": 5570.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:38",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0630.jpg"
+    },
+    {
+        "defect_id": "RPV-0632",
+        "severity": "Moderate",
+        "confidence": 0.67,
+        "area_px": 7053.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:38",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0632.jpg"
+    },
+    {
+        "defect_id": "RPV-0638",
+        "severity": "Critical",
+        "confidence": 0.63,
+        "area_px": 15120.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:40",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0638.jpg"
+    },
+    {
+        "defect_id": "RPV-0653",
+        "severity": "Moderate",
+        "confidence": 0.65,
+        "area_px": 5620.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:45",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0653.jpg"
+    },
+    {
+        "defect_id": "RPV-0655",
+        "severity": "Critical",
+        "confidence": 0.42,
+        "area_px": 100039.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:54",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0655.jpg"
+    },
+    {
+        "defect_id": "RPV-0660",
+        "severity": "Critical",
+        "confidence": 0.66,
+        "area_px": 20357.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:56",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0660.jpg"
+    },
+    {
+        "defect_id": "RPV-0665",
+        "severity": "Critical",
+        "confidence": 0.63,
+        "area_px": 19198.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:22:57",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0665.jpg"
+    },
+    {
+        "defect_id": "RPV-0667",
+        "severity": "Critical",
+        "confidence": 0.49,
+        "area_px": 129364.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:09",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0667.jpg"
+    },
+    {
+        "defect_id": "RPV-0668",
+        "severity": "Critical",
+        "confidence": 0.55,
+        "area_px": 24729.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:11",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0668.jpg"
+    },
+    {
+        "defect_id": "RPV-0678",
+        "severity": "Minor",
+        "confidence": 0.56,
+        "area_px": 3058.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:13",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0678.jpg"
+    },
+    {
+        "defect_id": "RPV-0690",
+        "severity": "Moderate",
+        "confidence": 0.6,
+        "area_px": 4908.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:15",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0690.jpg"
+    },
+    {
+        "defect_id": "RPV-0695",
+        "severity": "Moderate",
+        "confidence": 0.6,
+        "area_px": 6761.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:16",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0695.jpg"
+    },
+    {
+        "defect_id": "RPV-0699",
+        "severity": "Minor",
+        "confidence": 0.72,
+        "area_px": 984.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:16",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0699.jpg"
+    },
+    {
+        "defect_id": "RPV-0700",
+        "severity": "Minor",
+        "confidence": 0.63,
+        "area_px": 444.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:16",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0700.jpg"
+    },
+    {
+        "defect_id": "RPV-0713",
+        "severity": "Minor",
+        "confidence": 0.69,
+        "area_px": 1218.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:16",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0713.jpg"
+    },
+    {
+        "defect_id": "RPV-0734",
+        "severity": "Critical",
+        "confidence": 0.44,
+        "area_px": 102330.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:17",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0734.jpg"
+    },
+    {
+        "defect_id": "RPV-0745",
+        "severity": "Critical",
+        "confidence": 0.74,
+        "area_px": 17293.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:19",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0745.jpg"
+    },
+    {
+        "defect_id": "RPV-0746",
+        "severity": "Critical",
+        "confidence": 0.45,
+        "area_px": 19690.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:20",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0746.jpg"
+    },
+    {
+        "defect_id": "RPV-0748",
+        "severity": "Critical",
+        "confidence": 0.42,
+        "area_px": 58671.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:20",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0748.jpg"
+    },
+    {
+        "defect_id": "RPV-0757",
+        "severity": "Moderate",
+        "confidence": 0.67,
+        "area_px": 4687.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:23",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0757.jpg"
+    },
+    {
+        "defect_id": "RPV-0769",
+        "severity": "Minor",
+        "confidence": 0.47,
+        "area_px": 960.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:36",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0769.jpg"
+    },
+    {
+        "defect_id": "RPV-0770",
+        "severity": "Minor",
+        "confidence": 0.51,
+        "area_px": 1293.0,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:36",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0770.jpg"
+    },
+    {
+        "defect_id": "RPV-0774",
+        "severity": "Minor",
+        "confidence": 0.62,
+        "area_px": 2154.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:37",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0774.jpg"
+    },
+    {
+        "defect_id": "RPV-0776",
+        "severity": "Moderate",
+        "confidence": 0.68,
+        "area_px": 4619.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:37",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0776.jpg"
+    },
+    {
+        "defect_id": "RPV-0780",
+        "severity": "Minor",
+        "confidence": 0.51,
+        "area_px": 2155.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:38",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0780.jpg"
+    },
+    {
+        "defect_id": "RPV-0781",
+        "severity": "Moderate",
+        "confidence": 0.74,
+        "area_px": 5688.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:38",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0781.jpg"
+    },
+    {
+        "defect_id": "RPV-0808",
+        "severity": "Critical",
+        "confidence": 0.62,
+        "area_px": 18387.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:47",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0808.jpg"
+    },
+    {
+        "defect_id": "RPV-0814",
+        "severity": "Critical",
+        "confidence": 0.7,
+        "area_px": 15871.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:51",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0814.jpg"
+    },
+    {
+        "defect_id": "RPV-0819",
+        "severity": "Minor",
+        "confidence": 0.51,
+        "area_px": 1501.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:51",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0819.jpg"
+    },
+    {
+        "defect_id": "RPV-0823",
+        "severity": "Minor",
+        "confidence": 0.62,
+        "area_px": 2209.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:52",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0823.jpg"
+    },
+    {
+        "defect_id": "RPV-0827",
+        "severity": "Moderate",
+        "confidence": 0.69,
+        "area_px": 7493.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:53",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0827.jpg"
+    },
+    {
+        "defect_id": "RPV-0829",
+        "severity": "Critical",
+        "confidence": 0.6,
+        "area_px": 66469.8,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:54",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0829.jpg"
+    },
+    {
+        "defect_id": "RPV-0833",
+        "severity": "Minor",
+        "confidence": 0.56,
+        "area_px": 852.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:54",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0833.jpg"
+    },
+    {
+        "defect_id": "RPV-0834",
+        "severity": "Minor",
+        "confidence": 0.7,
+        "area_px": 1797.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:56",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0834.jpg"
+    },
+    {
+        "defect_id": "RPV-0846",
+        "severity": "Minor",
+        "confidence": 0.48,
+        "area_px": 2725.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:57",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0846.jpg"
+    },
+    {
+        "defect_id": "RPV-0852",
+        "severity": "Moderate",
+        "confidence": 0.5,
+        "area_px": 6900.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:57",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0852.jpg"
+    },
+    {
+        "defect_id": "RPV-0854",
+        "severity": "Minor",
+        "confidence": 0.43,
+        "area_px": 2453.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:57",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0854.jpg"
+    },
+    {
+        "defect_id": "RPV-0861",
+        "severity": "Minor",
+        "confidence": 0.54,
+        "area_px": 1468.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:58",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0861.jpg"
+    },
+    {
+        "defect_id": "RPV-0864",
+        "severity": "Minor",
+        "confidence": 0.62,
+        "area_px": 2159.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:24:59",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0864.jpg"
+    },
+    {
+        "defect_id": "RPV-0878",
+        "severity": "Minor",
+        "confidence": 0.55,
+        "area_px": 1810.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:01",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0878.jpg"
+    },
+    {
+        "defect_id": "RPV-0879",
+        "severity": "Minor",
+        "confidence": 0.56,
+        "area_px": 2538.3,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:01",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0879.jpg"
+    },
+    {
+        "defect_id": "RPV-0880",
+        "severity": "Moderate",
+        "confidence": 0.59,
+        "area_px": 5669.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:01",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0880.jpg"
+    },
+    {
+        "defect_id": "RPV-0881",
+        "severity": "Minor",
+        "confidence": 0.49,
+        "area_px": 3951.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:02",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0881.jpg"
+    },
+    {
+        "defect_id": "RPV-0883",
+        "severity": "Moderate",
+        "confidence": 0.74,
+        "area_px": 5581.7,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0883.jpg"
+    },
+    {
+        "defect_id": "RPV-0884",
+        "severity": "Critical",
+        "confidence": 0.54,
+        "area_px": 12490.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:03",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0884.jpg"
+    },
+    {
+        "defect_id": "RPV-0889",
+        "severity": "Critical",
+        "confidence": 0.62,
+        "area_px": 13532.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:04",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0889.jpg"
+    },
+    {
+        "defect_id": "RPV-0904",
+        "severity": "Moderate",
+        "confidence": 0.59,
+        "area_px": 4345.6,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:06",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0904.jpg"
+    },
+    {
+        "defect_id": "RPV-0907",
+        "severity": "Minor",
+        "confidence": 0.67,
+        "area_px": 1774.4,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:06",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0907.jpg"
+    },
+    {
+        "defect_id": "RPV-0911",
+        "severity": "Minor",
+        "confidence": 0.67,
+        "area_px": 2065.2,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:06",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0911.jpg"
+    },
+    {
+        "defect_id": "RPV-0913",
+        "severity": "Moderate",
+        "confidence": 0.59,
+        "area_px": 4768.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:06",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0913.jpg"
+    },
+    {
+        "defect_id": "RPV-0915",
+        "severity": "Minor",
+        "confidence": 0.5,
+        "area_px": 3369.9,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:07",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0915.jpg"
+    },
+    {
+        "defect_id": "RPV-0919",
+        "severity": "Critical",
+        "confidence": 0.62,
+        "area_px": 10347.1,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:08",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0919.jpg"
+    },
+    {
+        "defect_id": "RPV-0924",
+        "severity": "Minor",
+        "confidence": 0.58,
+        "area_px": 1710.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:12",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0924.jpg"
+    },
+    {
+        "defect_id": "RPV-0926",
+        "severity": "Minor",
+        "confidence": 0.6,
+        "area_px": 2484.5,
+        "latitude": 22.8025,
+        "longitude": 89.5328,
+        "timestamp": "2026-11-11 17:25:12",
+        "evidence_path": "data/outputs/evidence/defect_RPV_0926.jpg"
+    }
+]
